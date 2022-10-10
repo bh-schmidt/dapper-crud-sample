@@ -1,0 +1,13 @@
+{
+  "xp-use-cases": {
+    "SolutionDirectory": "./src",
+    "ApiCsprojPath": "./Api/Api.csproj",
+    "ApiDirectory": "./Api",
+    "ControllersDirectory": "./Controllers/v1",
+    "ApiNamespace": "Api",
+    "ApplicationCsprojPath": "./Api/Api.csproj",
+    "ApplicationDirectory": "./Api",
+    "UseCasesDirectory": "./UseCases",
+    "ApplicationNamespace": "Api"
+  }
+}
